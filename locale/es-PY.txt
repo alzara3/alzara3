@@ -1,0 +1,134 @@
+#: locale=es-PY
+
+## Action
+
+### URL
+WebFrame_DBF099DB_C98F_5F42_41E4_EF1C45912570.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3607.532260956031!2d-57.5526421845777!3d-25.286315383854756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x945dafb84addf55f%3A0x83868598a5e02980!2sAlzara%20Plaza!5e0!3m2!1sen!2spy!4v1667805323031!5m2!1sen!2spy
+WebFrame_DD366971_C984_DF5F_41D4_16CC2D68EF46.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7217.588521195934!2d-57.49722469313633!3d-25.24385368385652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x945da52e878bd7b5%3A0x24027f4e723cba02!2sAltavida%20Luque%20-%20Altamira%20Group!5e0!3m2!1sen!2spy!4v1665370123753!5m2!1sen!2spy
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_4783C394_59E2_F603_41CB_3C005F280C53.text = Baño \
+Vestidor
+HotspotPanoramaOverlayTextImage_4490B543_59DE_1205_418A_B09AE92A1054.text = Cocina
+HotspotPanoramaOverlayTextImage_45B4E5FA_59E2_1207_41C4_6F66EE7FB736.text = Cocina
+HotspotPanoramaOverlayTextImage_472663AE_59E2_161F_41D0_674D6EDD1C64.text = Cocina
+HotspotPanoramaOverlayTextImage_47AEF5EB_59E2_1205_41B1_D112DEE51075.text = Cocina
+HotspotPanoramaOverlayTextImage_44B593E1_5922_1605_41CD_6DBBFA9FFB15.text = Cocina
+HotspotPanoramaOverlayTextImage_45A72AF7_5922_360D_4175_0DB8D49539F3.text = Habitación \
+Principal
+HotspotPanoramaOverlayTextImage_446506D6_5926_3E0F_41C7_5DEAFD2D1AC4.text = Habitación \
+Principal
+HotspotPanoramaOverlayTextImage_4589B261_59DE_7602_41D2_1F1C0EE860DD.text = Habitación \
+Principal
+HotspotPanoramaOverlayTextImage_44B3501E_59E2_723F_41CD_686E14F52DCC.text = Habitación \
+Principal
+HotspotPanoramaOverlayTextImage_447395C2_5926_7207_41D1_676B186C494B.text = Habitación \
+Secundaria
+HotspotPanoramaOverlayTextImage_45EF83CD_5922_761D_41D5_9962A4A9B747.text = Habitación \
+Secundaria
+HotspotPanoramaOverlayTextImage_44AA8BA1_59DE_F605_41C3_8A444DA2908D.text = Living \
+Comedor
+HotspotPanoramaOverlayTextImage_44E58E21_59E6_2E05_419A_1A6A5F802A45.text = Living \
+Comedor
+HotspotPanoramaOverlayTextImage_47C411DF_59E2_723D_4193_F3769D179AF7.text = Living \
+Comedor
+HotspotPanoramaOverlayTextImage_474D8B41_5926_1602_41C6_B4F753D5D9DA.text = Living \
+Comedor
+HotspotPanoramaOverlayTextImage_472C3199_59EE_1202_41C2_FD265CB0272D.text = Living \
+Comedor
+HotspotPanoramaOverlayTextImage_45EFB2CA_59DE_1606_41C8_4E389473E686.text = Quincho \
+Balcón
+HotspotPanoramaOverlayTextImage_44942920_5926_3203_41C3_048F0D35CEB1.text = Quincho \
+Balcón
+HotspotPanoramaOverlayTextImage_4434ECB4_59E2_1203_41B1_819558F9E58B.text = Quincho \
+Balcón
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_7AEE2E06_59FD_EE0F_4170_32A041661D72.url = media/map_46306191_59E2_3205_4192_9D46FF2D808F_es-PY_0.png
+imlevel_7AEE0E07_59FD_EE0D_41C5_9ECD3FD26757.url = media/map_46306191_59E2_3205_4192_9D46FF2D808F_es-PY_1.png
+imlevel_7AEDDE07_59FD_EE0D_41CF_BAE037D71822.url = media/map_46306191_59E2_3205_4192_9D46FF2D808F_es-PY_2.png
+imlevel_7AEDCE07_59FD_EE0D_41B9_9273E8F316DC.url = media/map_46306191_59E2_3205_4192_9D46FF2D808F_es-PY_3.png
+imlevel_7DCD462B_59FE_1E05_41D2_2DAFC582575D.url = media/panorama_423B0777_5922_1E0E_41A6_1FE8CE898193_HS_bz6sfwes_es-PY.png
+imlevel_7DCAD64A_59FE_1E07_4165_A96C67446BAC.url = media/panorama_423B0777_5922_1E0E_41A6_1FE8CE898193_HS_s0yyephz_es-PY.png
+imlevel_7DFAD504_59FE_1203_41D2_37EE73CC6602.url = media/panorama_423B0874_5922_3203_41B2_47D146643F4E_HS_6isf7ro4_es-PY.png
+imlevel_7DF9653E_59FE_127F_41BF_CC506730FCB1.url = media/panorama_423B0874_5922_3203_41B2_47D146643F4E_HS_czew4bqb_es-PY.png
+imlevel_7DFBD525_59FE_120D_41D0_7720A664584E.url = media/panorama_423B0874_5922_3203_41B2_47D146643F4E_HS_rhaho7cf_es-PY.png
+imlevel_7DF095D0_59FE_1202_4189_19242E1FD9C4.url = media/panorama_423B2854_5922_7203_41D6_215EF209208F_HS_2iwe040u_es-PY.png
+imlevel_7DCCC60D_59FE_1E02_41AA_59CCC28553E1.url = media/panorama_423B2854_5922_7203_41D6_215EF209208F_HS_kfmdnlon_es-PY.png
+imlevel_7DF185E8_59FE_1203_41D1_3E86C76A761E.url = media/panorama_423B2854_5922_7203_41D6_215EF209208F_HS_ugxmv0qp_es-PY.png
+imlevel_7DF62557_59FE_120D_41CC_E9BD55F4F3A4.url = media/panorama_423B6890_5922_1202_41C9_4DBABEAFEF8C_HS_blkpemua_es-PY.png
+imlevel_7DF47579_59FE_1205_41A5_9F5E30B76464.url = media/panorama_423B6890_5922_1202_41C9_4DBABEAFEF8C_HS_eiylojmr_es-PY.png
+imlevel_7DF3D5B0_59FE_1203_41C5_74925193574A.url = media/panorama_423B6890_5922_1202_41C9_4DBABEAFEF8C_HS_evcyeezi_es-PY.png
+imlevel_7DF57592_59FE_1207_41D5_B90BFA2529BB.url = media/panorama_423B6890_5922_1202_41C9_4DBABEAFEF8C_HS_k424hpxc_es-PY.png
+imlevel_7DE95406_59FE_120F_41CC_A248BA22F1FA.url = media/panorama_42B848E0_5922_F203_41D3_6098536A8EE7_HS_4ywaf6xk_es-PY.png
+imlevel_7DE2E463_59FE_1206_41D0_BFD9FC58CF0F.url = media/panorama_42B848E0_5922_F203_41D3_6098536A8EE7_HS_n2r2w9gw_es-PY.png
+imlevel_7DE7D438_59FE_1203_41D5_04B916E26440.url = media/panorama_42B848E0_5922_F203_41D3_6098536A8EE7_HS_t3dswud2_es-PY.png
+imlevel_7DE8A3E0_59FE_1603_41BB_FBA1ECEBF748.url = media/panorama_42B848E0_5922_F203_41D3_6098536A8EE7_HS_xsjelm6g_es-PY.png
+imlevel_7DFC94DE_59FE_123F_41D3_1F2F75795558.url = media/panorama_7817EFD1_5922_2E02_4195_0208BF843A5D_HS_95vfzl9e_es-PY.png
+imlevel_7DE154A5_59FE_120D_41D3_C417D55B9012.url = media/panorama_7817EFD1_5922_2E02_4195_0208BF843A5D_HS_hsv2eutu_es-PY.png
+imlevel_7DE3447F_59FE_12FE_41D4_00E8FB3C7AFE.url = media/panorama_7817EFD1_5922_2E02_4195_0208BF843A5D_HS_lok96s4q_es-PY.png
+imlevel_7DFFD4C2_59FE_1207_41A8_27477D440C85.url = media/panorama_7817EFD1_5922_2E02_4195_0208BF843A5D_HS_r2egvrhi_es-PY.png
+imlevel_7DC4B781_59FE_1E02_41C7_A8E8F36CCE14.url = media/popup_78446716_59E2_3E0F_41D3_B856008C3679_es-PY_0_0.jpg
+imlevel_7DC78782_59FE_1E06_41BF_7FDC87904C5A.url = media/popup_78446716_59E2_3E0F_41D3_B856008C3679_es-PY_0_1.jpg
+imlevel_7DC77782_59FE_1E06_41BF_76EBC89E1027.url = media/popup_78446716_59E2_3E0F_41D3_B856008C3679_es-PY_0_2.jpg
+
+### Popup Image
+
+### Title
+map_46306191_59E2_3205_4192_9D46FF2D808F.label = 60m2
+panorama_42B848E0_5922_F203_41D3_6098536A8EE7.label = Departamento 3 - Toma 1
+panorama_7817EFD1_5922_2E02_4195_0208BF843A5D.label = Departamento 3 - Toma 2
+panorama_423B0874_5922_3203_41B2_47D146643F4E.label = Departamento 3 - Toma 3
+panorama_423B6890_5922_1202_41C9_4DBABEAFEF8C.label = Departamento 3 - Toma 4
+panorama_423B2854_5922_7203_41D6_215EF209208F.label = Departamento 3 - Toma 5
+panorama_423B0777_5922_1E0E_41A6_1FE8CE898193.label = Departamento 3 - Toma 6
+
+## Skin
+
+### Button
+Button_DB1F64A3_C984_D5C3_41E4_F99F28CB1D7B.label = CONTACTO
+Button_DBE7B36B_C99D_5343_41E8_93C775BA0643.label = CONTACTO
+Button_DBE6136B_C99D_5343_41D7_894F9E2F1F6A.label = INFO
+Button_DB1F04A3_C984_D5C3_41E2_B3B8393D878E.label = INFORMACIÓN
+Button_DB1F34A3_C984_D5C3_41DC_4FC7A98CC889.label = PERSPECTIVAS
+Button_DB1F74A3_C984_D5C3_41E5_0DAC618D0B35.label = PHOTOALBUM
+Button_DBE7D36B_C99D_5343_41E7_1DF9ABDE30F5.label = PHOTOALBUM
+Button_DB1F54A3_C984_D5C3_41CE_72476BBB1D5E.label = TIPOLOGÍA
+Button_DBE7E36B_C99D_5343_41D5_3976DAD7FE70.label = TIPOLOGÍA
+Button_DBE7F36B_C99D_5343_41D2_A2AE983DAD31.label = UBICACIÓN
+Button_DB1F24A3_C984_D5C3_41DA_8BDBFC74919F.label = UBICACIÓN
+Button_DBE6036B_C99D_5343_41D8_84B803B42785.label = VISTAS
+
+### Image
+Image_48C374CB_503B_C8AE_41D3_FF24FB021D1C.url = skin/Image_48C374CB_503B_C8AE_41D3_FF24FB021D1C_es-PY.jpg
+Image_DB1CF4A3_C984_D5C3_41CE_DC5F23ACDE60.url = skin/Image_DB1CF4A3_C984_D5C3_41CE_DC5F23ACDE60_es-PY.png
+Image_DB73D9AF_C985_5FC3_41E0_E07953D56C59.url = skin/Image_DB73D9AF_C985_5FC3_41E0_E07953D56C59_es-PY.jpg
+Image_DBE6436B_C99D_5343_41E7_72FE100A4B0F.url = skin/Image_DBE6436B_C99D_5343_41E7_72FE100A4B0F_es-PY.png
+Image_DD1373F0_C98F_B35D_41C2_471CCEC58D78.url = skin/Image_DD1373F0_C98F_B35D_41C2_471CCEC58D78_es-PY.png
+Image_DD7CDB60_C99B_D37E_41E8_DC2B3E74AB43.url = skin/Image_DD7CDB60_C99B_D37E_41E8_DC2B3E74AB43_es-PY.png
+
+### Label
+Label_DD1303F0_C98F_B35D_41E8_F890B997D707.text = {{title}}
+Label_DD7C3B60_C99B_D37E_41AC_1364853C4994.text = {{title}}
+
+### Multiline Text
+HTMLText_DBEACF22_C987_54FD_41DD_0DC01321B9D4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>FLOORPLAN/</B></SPAN></SPAN></DIV></div>
+HTMLText_D8D75BCD_C98C_D347_41DA_FC49169E13DD.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>FLOORPLAN/</B></SPAN></SPAN></DIV></div>
+HTMLText_DD36B971_C984_DF5F_41C8_3A6BA18CECCA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>LOCATION/</B></SPAN></SPAN></DIV></div>
+HTMLText_DBF0B9DB_C98F_5F42_41DC_CE5FAF3586A3.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>LOCATION/</B></SPAN></SPAN></DIV></div>
+HTMLText_DA6E25ED_C98F_D747_41E1_E985DAF28B3B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
+HTMLText_DB7C3067_C984_AD43_41E1_CCB9D7B994A2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Un complejo seguro y accesible, de ubicación privilegiada que ofrece amplios espacios pensados exclusivamente para que disfrutes del hogar de tus sueños.
+
+### Title
+tour.name = Alzara - Departamento 3
