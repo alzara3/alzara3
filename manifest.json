@@ -1,8 +1,4 @@
 {
- "start_url": "index.htm",
- "name": "Alzara - Departamento 3",
- "description": "Un complejo seguro y accesible, de ubicación privilegiada que ofrece amplios espacios pensados exclusivamente para que disfrutes del hogar de tus sueños.",
- "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +36,10 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
- "theme_color": "#FFFFFF"
+ "name": "Alzara - Departamento 3",
+ "description": "Un complejo seguro y accesible, de ubicación privilegiada que ofrece amplios espacios pensados exclusivamente para que disfrutes del hogar de tus sueños.",
+ "display": "fullscreen",
+ "start_url": "index.htm",
+ "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF"
 }
