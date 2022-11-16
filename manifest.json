@@ -1,9 +1,8 @@
 {
- "start_url": "index.htm",
  "background_color": "#FFFFFF",
  "name": "Alzara - 2 Hab. - 147 m²",
  "description": "Un complejo seguro y accesible, de ubicación privilegiada que ofrece amplios espacios pensados exclusivamente para que disfrutes del hogar de tus sueños.",
- "display": "fullscreen",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
+ "display": "fullscreen",
  "theme_color": "#FFFFFF"
 }

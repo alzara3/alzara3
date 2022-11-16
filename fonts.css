@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Metropolis Semi Bold";
+   src: url("fonts/Metropolis-SemiBold.woff") format("woff"), url("fonts/Metropolis-SemiBold.eot") format("embedded-opentype"), url("fonts/Metropolis-SemiBold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Metropolis Semi Bold";
+   src: url("fonts/Metropolis Semi Bold Italic.woff") format("woff"), url("fonts/Metropolis Semi Bold Italic.eot") format("embedded-opentype"), url("fonts/Metropolis Semi Bold Italic.otf") format("opentype");
+   font-weight: bold;
+   font-style: italic;
+}
